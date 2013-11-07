@@ -1,0 +1,9 @@
+minneapolis-rcv
+===============
+
+Ranking choice voting counter for mayoral race
+
+
+Simple implementation of calculating ranked choice votes, that doesn't take two days of Excel fiddling to complete!
+
+Reads the CSV file given as argument to the program and prints out the results of each round to to screen including eliminated candidates and the eventual winner.  See sample data files for test inputs.
