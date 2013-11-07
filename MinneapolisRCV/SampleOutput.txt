@@ -1,0 +1,29 @@
+Results for round 1
+	David 1
+	James 2
+	Frank 1
+	Arnie 1
+	Fred 0
+Lowest vote candidate eliminated: Fred with 0 votes
+
+Results for round 2
+	David 1
+	James 2
+	Frank 1
+	Arnie 1
+Lowest vote candidate eliminated: David with 1 votes
+
+Results for round 3
+	James 2
+	Frank 1
+	Arnie 1
+Lowest vote candidate eliminated: Frank with 1 votes
+
+Results for round 4
+	James 3
+	Arnie 1
+
+***************
+Winner Found!
+James
+***************
